@@ -98,7 +98,7 @@ function Navbar(props) {
             src='/images/realLogo.png'
             alt='logo'
           />
-          Code Timebank
+          SMIT Weaver
         </a>
         <button
           className='navbar-toggler'

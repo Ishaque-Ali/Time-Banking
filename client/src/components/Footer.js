@@ -15,7 +15,7 @@ const Footer = () => {
             rel='noopener noreferrer'
             className="text-mariner"
           >
-            George Campa
+            Ishaque Ali
           </a>
           ,{" "}
           <a
@@ -24,16 +24,7 @@ const Footer = () => {
             rel='noopener noreferrer'
             className="text-mariner"
           >
-            Armando Jimenez
-          </a>
-          ,{" "}
-          <a
-            href='https://www.linkedin.com/in/ruben-valdez-b223b825/'
-            target='_blank'
-            rel='noopener noreferrer'
-            className="text-mariner"
-          >
-            Ruben Valdez
+            Yuvika Mehta
           </a>
           , and{" "}
           <a
@@ -42,7 +33,7 @@ const Footer = () => {
             rel='noopener noreferrer'
             className="text-mariner"
           >
-            Matthew Winemiller
+            Shreya Sheoran
           </a>
         </h5>
       </div>
